@@ -6,5 +6,56 @@
 		{"price": "$99.99", "stocked": true, "id": "iPop"},
 		{"price": "$399.99", "stocked": false, "id": "iPhone"},
 		{"price": "$199.99", "stocked": true, "id": "nexus"}
+	],
+	"plants": [
+		{
+			"id": "garlic",
+			"name": "Garlic",
+			"status": "Planted in the BlackBox, should be harvest around june.",
+			"planted": true
+		},
+		{
+			"id": "dwarfrose",
+			"name": "dwarf rose",
+			"status": "Planted in the BlackBox, survivor of many...",
+			"planted": true
+		},
+		{
+			"id": "sunflower",
+			"name": "Sunflower",
+			"status": "Not planted yet, need to wait april.",
+			"planted": false
+		},
+		{
+			"id": "goji",
+			"name": "Goji tree",
+			"status": "Planted, wait to be put outside in the ground",
+			"planted": true
+		},
+		{
+			"id": "calendula",
+			"name": "Calendula",
+			"status": "Planted 17 the 11/03/2017 ",
+			"planted": true
+		},
+		{
+			"id": "siam",
+			"name": "Siam pumpkin",
+			"status": "Planted 3 the 11/03/2017",
+			"planted": true
+		},
+		{
+			"id": "capucine",
+			"name": "Capucine",
+			"status": "Planted 7 the 11/03/2017",
+			"planted": true
+		},
+		{
+			"id": "salad",
+			"name": "Salad",
+			"status": "Planted some the 11/3/2017",
+			"planted": true
+		}
 	]
+
 }
