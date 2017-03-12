@@ -1,0 +1,10 @@
+{
+	"projects": [
+		{"price": "$49.99", "stocked": true, "id": "football"},
+		{"price": "$9.99", "stocked": true, "id": "baseball"},
+		{"price": "$29.99", "stocked": false, "id": "basketball"},
+		{"price": "$99.99", "stocked": true, "id": "iPop"},
+		{"price": "$399.99", "stocked": false, "id": "iPhone"},
+		{"price": "$199.99", "stocked": true, "id": "nexus"}
+	]
+}
